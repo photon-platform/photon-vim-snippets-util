@@ -1,5 +1,6 @@
 *.pyc
 *.swp
 doc/tags
+tags
 /.ropeproject/
 /.mypy_cache/
